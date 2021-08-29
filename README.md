@@ -1,4 +1,4 @@
-### Hey guys... This is Yashaswi!!
+### Hey guys!! This is Yashaswi!!
 
 <!--
 **yashkandregulaa/yashkandregulaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
