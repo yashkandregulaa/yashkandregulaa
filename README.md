@@ -6,13 +6,25 @@
 Here are some ideas to get you started:
 
  🔭 I’m currently working on a Python project
+
  🌱 I’m currently learning Flutter
+
  👯 I’m looking to collaborate on Youtube
+
  💬 Ask me about any tech related stuff
- 📫 How to reach me: email id --> yashaswikandregulaa@gmail.com
+
+ 📫 How to reach me: email id  --> 
+ 
  😄 Pronouns: she/her
+ 
  ⚡ Fun fact: i'm kind of obsessed with the stock market
+
  🔭 I’m currently working on a Python project
+
  🌱 I’m currently learning Flutter
+
  👯 I’m looking to collaborate on Youtube
+
  💬 Ask me about any tech related stuff
+ 
+ yashaswikandregulaa@gmail.com
