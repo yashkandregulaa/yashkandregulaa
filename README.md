@@ -16,14 +16,14 @@ Here are some ideas to get you started:
  📫 How to reach me: email id  --> 
  
  😄 Pronouns: she/her
- 
- ⚡ Fun fact: i'm kind of obsessed with the stock market
 
  🔭 I’m currently working on a Python project
 
- 🌱 I’m currently learning Flutter
+ 🌱 I’m also learning Flutter
 
- 👯 I’m looking to collaborate on Youtube
+ 👯 I’m looking for collaboration in Web Development projects
+ 
+ ⚡ Fun fact: i'm kind of obsessed with the stock market
 
  💬 Ask me about any tech related stuff
  
