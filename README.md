@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working on a Python project
 
- 🌱 I’m currently learning Flutter
+ 🌱 I’m currently learning web dev
 
  👯 I’m looking to collaborate on Youtube
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working on a Python project
 
- 🌱 I’m also learning Flutter
+ 🌱 I’m also learning web dev
 
  👯 I’m looking for collaboration in Web Development projects
  
